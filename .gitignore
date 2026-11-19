@@ -1,0 +1,30 @@
+# Local Configuration (use config.example.ini as template)
+config.ini
+
+# Windows System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# AutoHotkey temporary / backup files
+*.bak
+*.ahk~
+*.tmp
+
+# Screenshot and image captures (prevent accidental commits)
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.bmp
+*.gif
+
+# Windows Shortcuts
+*.lnk
+
+# Editor / IDE configuration
+.vscode/
+.idea/
+*.swp
+*.swo
